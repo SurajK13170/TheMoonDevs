@@ -57,7 +57,7 @@ A full-stack application that generates social media posts using Google's Genera
   **Create a .env file in the Backend directory and add the following environment variables:**
 
 **env**
-**PORT**=8080
-**googleSheetId** = "1VR2s-P7eLHPqqESzLdx3-4TIQy_yxbeL64liv-fZ1FQ"
-**API_KEY**="AIzaSyDqdojJ25nmPcGfAp3bMFff1TIPO0-8vw4"
+**PORT**=8080.
+**googleSheetId** = "1VR2s-P7eLHPqqESzLdx3-4TIQy_yxbeL64liv-fZ1FQ".
+**API_KEY**="AIzaSyDqdojJ25nmPcGfAp3bMFff1TIPO0-8vw4".
 
